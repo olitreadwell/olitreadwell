@@ -2,7 +2,7 @@
 
 ### Thanks for reading :)
 
-## I'm a software engineer excited to build user-friendly and accessible tools that really help folks. If I'm not coding I work as a teacher, enjoying the opportunity to mentor others.
+<p style="font-size:22px;">I'm a software engineer excited to build user-friendly and accessible tools that really help folks. If I'm not coding I work as a teacher, enjoying the opportunity to mentor others.</p>
 
 <br>
 
