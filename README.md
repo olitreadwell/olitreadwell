@@ -22,8 +22,6 @@ JavaScript, ReactJS, NodeJS, Jest, Chai, TypeScript, Ruby on Rails, ActiveRecord
 **GITHUB STAT'S**
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
- -->
 
-
-
-Today is Friday, 19 November, 15:09 GMT-8.
+Today is Friday, 19 November, 15:11 GMT-8.
+-->
