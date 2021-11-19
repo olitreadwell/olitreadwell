@@ -1,0 +1,22 @@
+{
+  "name": "olitreadwell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olitreadwell/olitreadwell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olitreadwell/olitreadwell/issues"
+  },
+  "homepage": "https://github.com/olitreadwell/olitreadwell#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
