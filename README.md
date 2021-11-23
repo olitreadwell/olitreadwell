@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I'm Oli Treadwell
 
-### Thanks for reading :)
+<p style="font-size:20px;"> Thanks for reading :)</p>
 
 <p style="font-size:22px;">I'm a software engineer excited to build user-friendly and accessible tools that really help folks. If I'm not coding I work as a teacher, enjoying the opportunity to mentor others.</p>
 
@@ -23,5 +23,5 @@ JavaScript, ReactJS, NodeJS, Jest, Chai, TypeScript, Ruby on Rails, ActiveRecord
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
 
-Today is Friday, 19 November, 15:11 GMT-8.
+Today is Tuesday, 23 November, 14:16 GMT-8.
 -->
