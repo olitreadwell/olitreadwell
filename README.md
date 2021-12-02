@@ -2,6 +2,9 @@
 
 <p style="font-size:20px;"> Thanks for reading :)</p>
 
+[![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
+
+
 As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
 
 Examples of my career highlights include:
@@ -42,12 +45,11 @@ Software Development Life Cycle | Full-Stack Engineering | Web Development | Pro
 
 [Condé Nast Technology: End-to-End Testing the Condé Nast Paywalls](https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls)
 
-[![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
 
 <!--
 **GITHUB STAT'S**
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
 
-Today is Thursday, 2 December, 15:20 GMT-8.
+Today is Thursday, 2 December, 15:21 GMT-8.
 -->
