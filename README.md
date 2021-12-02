@@ -17,21 +17,23 @@ Outside of my hands-on work, I have organized events including Refresh Austin, S
 
 ## Key skills include:
 
+
 Software Development Life Cycle | Full-Stack Engineering | Web Development | Programming | Code Review | Agile Development | Project Management | Test-Driven Development | Technical Training & Mentoring | Legacy Code Refactoring | Technical Writing
+
 
 ## Technology skills include:
 
-• Scripting: JavaScript, Ruby, HTML, CSS
+•  Scripting: JavaScript, Ruby, HTML, CSS
 
-• Frameworks: NodeJS, ReactJS, Rails, Sinatra
+•  Frameworks: NodeJS, ReactJS, Rails, Sinatra
 
-• Testing: Jest, Mocha, Chai, Sinon, RSpec, MiniTest
+•  Testing: Jest, Mocha, Chai, Sinon, RSpec, MiniTest
 
-• Styles: SASS/SCSS, LESS
+•  Styles: SASS/SCSS, LESS
 
-• Databases: SQL (MySQL)
+•  Databases: SQL (MySQL)
 
-• Tools: Git, Jenkins, Heroku, Github
+•  Tools: Git, Jenkins, Heroku, Github
 
 <br>
 
@@ -46,5 +48,5 @@ Software Development Life Cycle | Full-Stack Engineering | Web Development | Pro
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
 
-Today is Thursday, 2 December, 14:35 GMT-8.
+Today is Thursday, 2 December, 15:16 GMT-8.
 -->
