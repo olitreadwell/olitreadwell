@@ -15,13 +15,13 @@ In my early career, I had the opportunity to diversify my experience by serving 
 
 Outside of my hands-on work, I have organized events including Refresh Austin, Start-up Weekend, and Silicon Beach Melbourne (in Australia) and am a regular industry speaker for events like Austin on Rails and the General Assembly Congress Austin.
 
-## Key skills include:
+## Key skills:
 
 
 Software Development Life Cycle | Full-Stack Engineering | Web Development | Programming | Code Review | Agile Development | Project Management | Test-Driven Development | Technical Training & Mentoring | Legacy Code Refactoring | Technical Writing
 
 
-## Technology skills include:
+## Technology skills:
 
 •  Scripting: JavaScript, Ruby, HTML, CSS
 
@@ -37,7 +37,8 @@ Software Development Life Cycle | Full-Stack Engineering | Web Development | Pro
 
 <br>
 
-### WRITINGS
+## Published works:
+
 
 [Condé Nast Technology: End-to-End Testing the Condé Nast Paywalls](https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls)
 
@@ -48,5 +49,5 @@ Software Development Life Cycle | Full-Stack Engineering | Web Development | Pro
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
 
-Today is Thursday, 2 December, 15:16 GMT-8.
+Today is Thursday, 2 December, 15:18 GMT-8.
 -->
