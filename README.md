@@ -8,7 +8,6 @@
 As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
 
 Examples of my career highlights include:
-
 ► Rebuilding a customer-facing platform by updating the feature set and UI/UX for Kazoo.
 
 ► Increasing monthly subscriptions for Vanity Fair and Wired by over 100% year over year by testing and iterating an agnostic paywall for use across all brand sites for Condé Nast.
@@ -52,5 +51,5 @@ Software Development Life Cycle | Full-Stack Engineering | Web Development | Pro
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
 
-Today is Thursday, 13 April, 09:05 GMT-7.
+Today is Thursday, 13 April, 12:24 GMT-7.
 -->
