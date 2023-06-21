@@ -2,10 +2,7 @@
 
 <p style="font-size:20px;"> Thanks for reading :)</p>
 
-<a target="_blank" href="https://www.linkedin.com/in/olitreadwell/"><img alt="Connect with Oli Treadwell on LinkedIn" style="height:1.7rem;" src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-s?logo=linkedin&labelColor=blue&color=black"></a>
-<a target="_blank" href="https://www.github.com/olitreadwell/resume"><img alt="Oli Treadwell's Resume on GitHub" style="height:1.7rem;" src="https://img.shields.io/badge/-Resume-s?logo=github&labelColor=blue&color=black"></a>
-<a target="_blank" href="https://github.com/olitreadwell/awesome-olitreadwell"><img alt="awesome-olitreadwell" style="height:1.7rem;" src="https://img.shields.io/badge/awesome--olitreadwell-s?logo=awesomelists&logoColor=black&labelColor=white&color=black"></a>
-
+[![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
 
 
 As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
@@ -54,5 +51,5 @@ Software Development Life Cycle | Full-Stack Engineering | Web Development | Pro
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
 
-Today is Wednesday, 21 June, 13:05 GMT-7.
+Today is Wednesday, 21 June, 13:22 GMT-7.
 -->
