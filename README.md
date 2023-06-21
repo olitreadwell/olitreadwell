@@ -2,7 +2,10 @@
 
 <p style="font-size:20px;"> Thanks for reading :)</p>
 
-[![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
+<a target="_blank" href="https://www.linkedin.com/in/olitreadwell/"><img alt="Connect with Oli Treadwell on LinkedIn" style="height:1.7rem;" src="https://img.shields.io/badge/-Connect_with_me_on_LinkedIn-s?logo=linkedin&labelColor=blue&color=black"></a>
+<a target="_blank" href="https://www.github.com/olitreadwell/resume"><img alt="Oli Treadwell's Resume on GitHub" style="height:1.7rem;" src="https://img.shields.io/badge/-Resume-s?logo=github&labelColor=blue&color=black"></a>
+<a target="_blank" href="https://github.com/olitreadwell/awesome-olitreadwell"><img alt="awesome-olitreadwell" style="height:1.7rem;" src="https://img.shields.io/badge/awesome--olitreadwell-s?logo=awesomelists&logoColor=black&labelColor=white&color=black"></a>
+
 
 
 As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
