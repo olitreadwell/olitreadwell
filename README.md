@@ -4,6 +4,9 @@
 
 [![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
 
+[![Github:Resume - OliTreadwell](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/olitreadwell/resume)](https://www.github.com/olitreadwell/resume)
+
+
 
 As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
 
