@@ -5,18 +5,19 @@
 [![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
 
 
-As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
+My name is Oli Treadwell, a dedicated software engineer and creative tech consultant. I'm a believer in using my career to make a positive impact and leveraging technology when appropriate, and one of my current hopes is to push for accessibility and accessibility education within technology.
 
-Examples of my career highlights include:
-► Rebuilding a customer-facing platform by updating the feature set and UI/UX for Kazoo.
+My career journey, began in venture capital, sales, and technology operations before pivoting to software development. As a senior software engineer, I've developed complex customer-facing platforms and applications that contribute to the achievement of business goals. I take pride in my contributions to customer-facing platforms such as the paywall architecture at Condé Nast, where my work increased year-over-year subscriptions for Vanity Fair and Wired by over 100% through iterative paywall development & testing. I enjoy mentoring software engineers across different organizations, an opportunity that has sharpened my communication, collaboration, and critical thinking skills.
 
-► Increasing monthly subscriptions for Vanity Fair and Wired by over 100% year over year by testing and iterating an agnostic paywall for use across all brand sites for Condé Nast.
+My technical skills span the entire software development life cycle, from web development, code review, project management, to test-driven development, technical training, and mentoring. I have proficiency in multiple scripting languages such as JavaScript, Ruby, HTML, and CSS, and I'm comfortable with practices like mobile-first accessibility-first design, agile methodologies, object-oriented programming, and refactoring legacy code. 
 
-► Mentoring and developing future software engineers as a technical trainer full-time for Galvanize, Inc and part-time for General Assembly Austin, CODEACADEMY, and Code Austin.
+I'm experienced with frameworks like Node.js, ReactJS, Rails, and Sinatra, and am versed in testing tools like Jest, Mocha, Chai, Sinon, RSpec, and MiniTest. For databases, I specialize in SQL using PostgreSQL. My toolbox for development and deployment includes Git, Jenkins, AWS, GitHub and have experience with numerous other industry standard tools.
 
-In my early career, I had the opportunity to diversify my experience by serving in venture capital, sales, and technology operations roles before transitioning into software development.
+In addition to my coding prowess, I’m committed to nurturing the tech community. I have actively participated in and organized tech events such as Refresh Austin and Startup Weekend. I am a contributor to my local San Diego Accessibility meetup & Open San Diego (what was the local Code for America brigade). With years of experience as a technical writer and public speaker, I'm confident when presenting at industry events. I've spoken with Austin on Rails, the Flatiron School and beyond, sharing my thoughts on the technology and the latest trends.
 
-Outside of my hands-on work, I have organized events including Refresh Austin, Start-up Weekend, and Silicon Beach Melbourne (in Australia) and am a regular industry speaker for events like Austin on Rails and the General Assembly Congress Austin.
+Within my career, I work to advocate for diversity and inclusion in tech. In my pursuit to promote these values, I've taken an active role in organizing community events and contributing to open-source projects. 
+
+With my problem-solving prowess, successful track record, and passion for collaborative teamwork, I'm eager to contribute to your projects, and together, we can create software solutions that make a difference.
 
 ## Key skills:
 
