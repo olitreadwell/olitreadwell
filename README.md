@@ -4,9 +4,6 @@
 
 [![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
 
-[![Github:Resume - OliTreadwell](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/olitreadwell/resume)](https://www.github.com/olitreadwell/resume)
-
-
 
 As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
 
@@ -54,5 +51,5 @@ Software Development Life Cycle | Full-Stack Engineering | Web Development | Pro
 
 ![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
 
-Today is Friday, 7 July, 15:00 GMT-7.
+Today is Friday, 7 July, 15:07 GMT-7.
 -->
