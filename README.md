@@ -4,19 +4,34 @@
 
 [![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
 
+Hi there! I'm Oli Treadwell. With a deep expertise in React.js and Node.js, I've consistently focused on achieving key business outcomes. Over time, I've developed a knack for devising creative strategies that moves the needle on these metrics. Beyond coding, I've had the privilege of being a mentor and coach to hundreds of junior engineers, many of whom have carved successful paths in the tech world.
 
-As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
 
-Examples of my career highlights include:
-► Rebuilding a customer-facing platform by updating the feature set and UI/UX for Kazoo.
 
-► Increasing monthly subscriptions for Vanity Fair and Wired by over 100% year over year by testing and iterating an agnostic paywall for use across all brand sites for Condé Nast.
+- **Doubled Monthly Subscriptions**: Developed a universal paywall structure at Condé Nast, resulting in a 100% YoY increase in monthly subscriptions for Vanity Fair and Wired.
 
-► Mentoring and developing future software engineers as a technical trainer full-time for Galvanize, Inc and part-time for General Assembly Austin, CODEACADEMY, and Code Austin.
+- **Boosted Engagement by 15%**: Transitioned the Rewards platform at WorkTango from Rails to ReactJS.
 
-In my early career, I had the opportunity to diversify my experience by serving in venture capital, sales, and technology operations roles before transitioning into software development.
+- **Improved Developer Efficiency**: Introduced a modular design system at WorkTango to enhance UI consistency and increase the speed at which developers could work.
 
-Outside of my hands-on work, I have organized events including Refresh Austin, Start-up Weekend, and Silicon Beach Melbourne (in Australia) and am a regular industry speaker for events like Austin on Rails and the General Assembly Congress Austin.
+- **Enhanced Software Performance by 20%**: Refactored two old codebases at Union Metrics to utilize Rails 4, optimizing performance.
+
+- **Elevated Brand Reach**: Rolled out new design elements & ReactJS components for 26 media brands at Condé Nast, uplifting readership and SEO.
+
+- **Enhanced Book Sales**: Deployed an effective marketing website for author Jon Cohn's book 'Slashtag', leading to a spike in sales.
+
+- **Supported Museum Transition**: Assisted Mexic-Arte Museum in establishing a web presence before transitioning to a web-only format during renovations.
+
+- **Advanced Product Licensing**: At Bypass Mobile, conceived and executed a JSON-API spec product licensing platform.
+
+- **Slashed Resolution Time by 50%**: Compiled a knowledge base of frequent customer technical issues at Union Metrics.
+
+- **Strengthened Customer Relations**: Bridged the gap between the customer and engineering teams at Union Metrics to promptly address and fix customer concerns.
+
+
+
+But my commitments extend beyond coding. I've always been an avid public speaker and educator. My driving force has been a desire to ‘do good’ and to leverage technology optimally. In my coding and mentoring, I've consistently emphasized the importance of using technology responsibly and ethically. By doing so, I aim to leave a lasting, positive impact on both the industry and society at large. As I venture forward, my goal remains clear: to fuse innovation with purpose and to inspire the next generation of tech enthusiasts.
+
 
 ## Key skills:
 
