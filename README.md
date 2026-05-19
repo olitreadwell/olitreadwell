@@ -8,8 +8,8 @@ Senior software engineer and accessibility advocate. Ten plus years building for
 
 ## What I work on
 
-- **Current:** Senior Software Engineer at Numeral Studio. Lead developer on the studio's brand and agency site (full-stack ownership, design hand-off to production release). Lead front-end developer on a regulatory reporting and compliance platform (React, TypeScript, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI). Contributing engineer on the studio's other recent product surfaces.
-- **Recent side project:** [`price-to-impact`](https://github.com/olitreadwell/price-to-impact) — paste any price in any currency, see what it could buy at a high-impact charity. Web app, drag-to-bookmarks bookmarklet, and Chrome MV3 extension from a single Bun-workspaces monorepo. MIT licensed.
+- **Current:** Senior Software Engineer at Numeral Studio. Lead developer on a creative agency's brand site, delivered through Numeral Studio. Lead front-end developer on a regulatory reporting and compliance platform (React, TypeScript, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI). Contributing engineer on the studio's other recent product surfaces.
+- **Recent side project:** [`price-to-impact`](https://github.com/olitreadwell/price-to-impact) — a Chrome extension that translates everyday prices into high-impact charity outcomes as you browse. TypeScript, MV3, GiveWell-derived data. MIT licensed.
 - **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook monorepo template for the studio's future projects, so new client work can start with the team's default stack and a high quality bar from day one.
 - **Open source:** Active contributor to [`ro-savage/nz-tech-events`](https://github.com/ro-savage/nz-tech-events) (a public Ruby on Rails app for the NZ tech-events community): CI quality gates, structured-data SEO, shared model concerns, password-reset and digest-job test coverage.
 
