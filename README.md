@@ -8,7 +8,7 @@ Senior software engineer and accessibility advocate. Ten plus years building for
 
 ## What I work on
 
-- **Current:** Lead front-end engineer at Numeral Studio (Wellington, NZ) on regulatory reporting and compliance products, design-system platforms, and the studio brand site. React, TypeScript, Next.js, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI.
+- **Current:** Senior Software Engineer at Numeral Studio (Wellington, NZ). Lead developer on **Octal**, the studio's brand site (full-stack ownership: design hand-off to production release). Lead front-end developer on a regulatory reporting and compliance platform (React, TypeScript, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI). Contributing engineer on the studio's other recent product surfaces: a conference platform, a financial-compliance Electron app, and mobile product work.
 - **Recent side project:** [`price-to-impact`](https://github.com/olitreadwell/price-to-impact) — paste any price in any currency, see what it could buy at a high-impact charity. Web app, drag-to-bookmarks bookmarklet, and Chrome MV3 extension from a single Bun-workspaces monorepo. MIT licensed.
 - **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook monorepo template for Numeral Studio's future projects.
 - **Open source:** Active contributor to [`ro-savage/nz-tech-events`](https://github.com/ro-savage/nz-tech-events) (a public Ruby on Rails app for the NZ tech-events community): CI quality gates, structured-data SEO, shared model concerns, password-reset and digest-job test coverage.
