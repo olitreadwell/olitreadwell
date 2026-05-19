@@ -1,55 +1,41 @@
-# Hi there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I'm Oli Treadwell
+# Oli Treadwell
 
-<p style="font-size:20px;"> Thanks for reading :)</p>
+Senior software engineer and accessibility advocate. Ten plus years building for the web, mostly in React, TypeScript, and Ruby on Rails. UK citizen, relocating to London (Peckham, SE15) within the next 30 days.
 
-[![Linkedin:OliTreadwell](https://img.shields.io/badge/-OliTreadwell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olitreadwell/)](https://www.linkedin.com/in/olitreadwell/)
+[LinkedIn](https://www.linkedin.com/in/olitreadwell/) · [Personal site](https://olitreadwell.github.io) · [Resume](https://github.com/olitreadwell/resume)
 
+---
 
-As a senior software engineer, I have dedicated my career to creating dynamic platforms and applications by tying development best practices to broader business goals.
+## What I work on
 
-Examples of my career highlights include:
-► Rebuilding a customer-facing platform by updating the feature set and UI/UX for Kazoo.
+- **Current:** Lead front-end engineer at Numeral Studio (Wellington, NZ) on regulatory reporting and compliance products, design-system platforms, and the studio brand site. React, TypeScript, Next.js, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI.
+- **Recent side project:** [`price-to-impact`](https://github.com/olitreadwell/price-to-impact) — paste any price in any currency, see what it could buy at a high-impact charity. Web app, drag-to-bookmarks bookmarklet, and Chrome MV3 extension from a single Bun-workspaces monorepo. MIT licensed.
+- **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook monorepo template for Numeral Studio's future projects.
+- **Open source:** Active contributor to [`ro-savage/nz-tech-events`](https://github.com/ro-savage/nz-tech-events) (a public Ruby on Rails app for the NZ tech-events community): CI quality gates, structured-data SEO, shared model concerns, password-reset and digest-job test coverage.
 
-► Increasing monthly subscriptions for Vanity Fair and Wired by over 100% year over year by testing and iterating an agnostic paywall for use across all brand sites for Condé Nast.
+## Career highlights
 
-► Mentoring and developing future software engineers as a technical trainer full-time for Galvanize, Inc and part-time for General Assembly Austin, CODEACADEMY, and Code Austin.
+- **Condé Nast paywall (2017–2019).** Built the brand-agnostic paywall and rule engine used across 26 media brands (Vanity Fair, Wired, The New Yorker, and more). Subscriptions doubled year over year at Vanity Fair and Wired. End-to-end testing approach written up on the Condé Nast tech blog: [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls).
+- **WorkTango Rewards re-architecture (2019–2020).** Led the front-end migration from Rails to React with a Storybook design system. Customer engagement lifted 15%, page load dropped 30%.
+- **Teaching (2015–2023).** Curriculum and instruction at The Flatiron School, Galvanize / Hack Reactor, and General Assembly. Roughly 400 Amazon engineers trained at Flatiron alone. 90% graduation rate, 75% job placement within 90 days at Hack Reactor.
 
-In my early career, I had the opportunity to diversify my experience by serving in venture capital, sales, and technology operations roles before transitioning into software development.
+## Stack
 
-Outside of my hands-on work, I have organized events including Refresh Austin, Start-up Weekend, and Silicon Beach Melbourne (in Australia) and am a regular industry speaker for events like Austin on Rails and the General Assembly Congress Austin.
+**Daily:** React, TypeScript, Next.js, Node.js, Electron, Playwright, Radix UI, Storybook, Vitest, GitHub Actions.
 
-## Key skills:
+**Comfortable:** Ruby on Rails, PostgreSQL, Python, Tailwind, shadcn/ui, Turborepo, Bun, MV3 Chrome extensions.
 
+**Practising:** Accessibility (WCAG 2.1/2.2, ARIA, screen-reader testing in CI), inclusive design, design-system thinking.
 
-Software Development Life Cycle | Full-Stack Engineering | Web Development | Programming | Code Review | Agile Development | Project Management | Test-Driven Development | Technical Training & Mentoring | Legacy Code Refactoring | Technical Writing
+## Talks and writing
 
+- [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls) — Condé Nast Technology Blog, 2018
+- NZ Tech Rally 2026 — *upcoming talk on cognitively-kind web design*
+- Past: Refresh Austin, Silicon Beach Melbourne, Austin on Rails, General Assembly Congress Austin
 
-## Technology skills:
+## Find me
 
-•  Scripting: JavaScript, Ruby, HTML, CSS
-
-•  Frameworks: NodeJS, ReactJS, Rails, Sinatra
-
-•  Testing: Jest, Mocha, Chai, Sinon, RSpec, MiniTest
-
-•  Styles: SASS/SCSS, LESS
-
-•  Databases: SQL (MySQL)
-
-•  Tools: Git, Jenkins, Heroku, Github
-
-<br>
-
-## Published works:
-
-
-[Condé Nast Technology: End-to-End Testing the Condé Nast Paywalls](https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls)
-
-
-<!--
-**GITHUB STAT'S**
-
-![stats](https://github-readme-stats.vercel.app/api?username=olitreadwell&show_icons=true&theme=synthwave)
-
-Today is Sunday, 2 March, 20:08 GMT-8.
--->
+- LinkedIn: [olitreadwell](https://www.linkedin.com/in/olitreadwell/)
+- Site: [olitreadwell.github.io](https://olitreadwell.github.io)
+- Resume: [github.com/olitreadwell/resume](https://github.com/olitreadwell/resume)
+- Email: oliver.treadwell@gmail.com
