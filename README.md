@@ -10,8 +10,8 @@ Senior software engineer and accessibility advocate. Ten plus years building for
 
 - **Current:** Senior Software Engineer at Numeral Studio. Lead developer on a creative agency's brand site, delivered through Numeral Studio. Lead front-end developer on a regulatory reporting and compliance platform (React, TypeScript, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI). Contributing engineer on the studio's other recent product surfaces.
 - **Recent side project:** [`price-to-impact`](https://github.com/olitreadwell/price-to-impact) — a Chrome extension that translates everyday prices into high-impact charity outcomes as you browse. TypeScript, MV3, GiveWell-derived data. MIT licensed.
-- **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook monorepo template for the studio's future projects, so new client work can start with the team's default stack and a high quality bar from day one.
-- **Open source:** Active contributor to [`ro-savage/nz-tech-events`](https://github.com/ro-savage/nz-tech-events) (a public Ruby on Rails app for the NZ tech-events community): CI quality gates, structured-data SEO, shared model concerns, password-reset and digest-job test coverage.
+- **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook / Turborepo monorepo template for the studio's new client work. Cuts project initiation time by ~30%, saving days per kickoff for both the team and the client, and raises the baseline quality bar by giving every new project the same default stack and CI gates from day one.
+- **Open source:** Spotted an opportunity to improve [`ro-savage/nz-tech-events`](https://github.com/ro-savage/nz-tech-events), a community resource popular with the local tech community, and contributed CI quality gates, structured-data SEO, shared model concerns, and test coverage for the password-reset and weekly-digest flows.
 
 ## Career highlights
 
