@@ -1,6 +1,6 @@
 # Oli Treadwell
 
-Senior software engineer and accessibility advocate. Ten plus years building for the web, mostly in React, TypeScript, and Ruby on Rails. UK citizen, relocating to London (Peckham, SE15) within the next 30 days.
+Senior software engineer and accessibility advocate. Ten plus years building for the web, mostly in React, TypeScript, and Ruby on Rails.
 
 [LinkedIn](https://www.linkedin.com/in/olitreadwell/) · [Personal site](https://olitreadwell.github.io) · [Resume](https://github.com/olitreadwell/resume)
 
@@ -8,9 +8,9 @@ Senior software engineer and accessibility advocate. Ten plus years building for
 
 ## What I work on
 
-- **Current:** Senior Software Engineer at Numeral Studio (Wellington, NZ). Lead developer on the studio's brand and agency site (full-stack ownership, design hand-off to production release). Lead front-end developer on a regulatory reporting and compliance platform (React, TypeScript, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI). Contributing engineer on the studio's other recent product surfaces: a conference platform, a financial-compliance Electron app, and mobile product work.
+- **Current:** Senior Software Engineer at Numeral Studio. Lead developer on the studio's brand and agency site (full-stack ownership, design hand-off to production release). Lead front-end developer on a regulatory reporting and compliance platform (React, TypeScript, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI). Contributing engineer on the studio's other recent product surfaces.
 - **Recent side project:** [`price-to-impact`](https://github.com/olitreadwell/price-to-impact) — paste any price in any currency, see what it could buy at a high-impact charity. Web app, drag-to-bookmarks bookmarklet, and Chrome MV3 extension from a single Bun-workspaces monorepo. MIT licensed.
-- **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook monorepo template for the studio's future projects.
+- **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook monorepo template for the studio's future projects, so new client work can start with the team's default stack and a high quality bar from day one.
 - **Open source:** Active contributor to [`ro-savage/nz-tech-events`](https://github.com/ro-savage/nz-tech-events) (a public Ruby on Rails app for the NZ tech-events community): CI quality gates, structured-data SEO, shared model concerns, password-reset and digest-job test coverage.
 
 ## Career highlights
