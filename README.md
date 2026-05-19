@@ -8,16 +8,16 @@ Senior software engineer and accessibility advocate. Ten plus years building for
 
 ## What I work on
 
-- **Current:** Senior Software Engineer at Numeral Studio (Wellington, NZ). Lead developer on **Octal**, the studio's brand site (full-stack ownership: design hand-off to production release). Lead front-end developer on a regulatory reporting and compliance platform (React, TypeScript, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI). Contributing engineer on the studio's other recent product surfaces: a conference platform, a financial-compliance Electron app, and mobile product work.
+- **Current:** Senior Software Engineer at Numeral Studio (Wellington, NZ). Lead developer on the studio's brand and agency site (full-stack ownership, design hand-off to production release). Lead front-end developer on a regulatory reporting and compliance platform (React, TypeScript, Electron, Playwright end-to-end testing, Radix UI primitives, accessibility tests in CI). Contributing engineer on the studio's other recent product surfaces: a conference platform, a financial-compliance Electron app, and mobile product work.
 - **Recent side project:** [`price-to-impact`](https://github.com/olitreadwell/price-to-impact) — paste any price in any currency, see what it could buy at a high-impact charity. Web app, drag-to-bookmarks bookmarklet, and Chrome MV3 extension from a single Bun-workspaces monorepo. MIT licensed.
-- **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook monorepo template for Numeral Studio's future projects.
+- **Engineering practice:** Proposed an opinionated Next.js 15 / React 19 / TypeScript / Tailwind / Vitest / Playwright / Storybook monorepo template for the studio's future projects.
 - **Open source:** Active contributor to [`ro-savage/nz-tech-events`](https://github.com/ro-savage/nz-tech-events) (a public Ruby on Rails app for the NZ tech-events community): CI quality gates, structured-data SEO, shared model concerns, password-reset and digest-job test coverage.
 
 ## Career highlights
 
-- **Condé Nast paywall (2017–2019).** Built the brand-agnostic paywall and rule engine used across 26 media brands (Vanity Fair, Wired, The New Yorker, and more). Subscriptions doubled year over year at Vanity Fair and Wired. End-to-end testing approach written up on the Condé Nast tech blog: [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls).
-- **WorkTango Rewards re-architecture (2019–2020).** Led the front-end migration from Rails to React with a Storybook design system. Customer engagement lifted 15%, page load dropped 30%.
-- **Teaching (2015–2023).** Curriculum and instruction at The Flatiron School, Galvanize / Hack Reactor, and General Assembly. Roughly 400 Amazon engineers trained at Flatiron alone. 90% graduation rate, 75% job placement within 90 days at Hack Reactor.
+- **Multi-brand paywall (2017–2019).** Built the brand-agnostic paywall and rule engine used across 26 media brands at a major publisher. Subscriptions doubled year over year at two flagship titles. End-to-end testing approach written up on the company tech blog: [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls).
+- **Rewards platform re-architecture (2019–2020).** Led the front-end migration from Rails to React with a Storybook design system. Customer engagement lifted 15%. Page load dropped 30%.
+- **Teaching (2015–2023).** Curriculum and instruction at three engineering bootcamps. Roughly 400 enterprise engineers trained in a single program. 90% graduation rate and 75% job placement within 90 days at one school.
 
 ## Stack
 
@@ -29,7 +29,7 @@ Senior software engineer and accessibility advocate. Ten plus years building for
 
 ## Talks and writing
 
-- [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls) — Condé Nast Technology Blog, 2018
+- [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls) — company tech blog, 2018
 - NZ Tech Rally 2026 — *upcoming talk on cognitively-kind web design*
 - Past: Refresh Austin, Silicon Beach Melbourne, Austin on Rails, General Assembly Congress Austin
 
