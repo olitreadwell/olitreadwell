@@ -14,15 +14,15 @@ jobs:
 
     steps:
       - name: Checkout current repository to main branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
         with:
           ref: main
       - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v7
         with:
           node-version: '13.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
+        uses: actions/cache@v6
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
