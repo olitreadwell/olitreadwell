@@ -1,6 +1,6 @@
 # Oli Treadwell
 
-Senior software engineer and accessibility advocate. 10+ years building for the web, mostly in React, TypeScript, and Ruby on Rails.
+Senior software engineer and accessibility advocate. 10+ years building for the web, mostly in React, TypeScript, and Node, with some Ruby on Rails.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-olitreadwell-blue?logo=linkedin)](https://www.linkedin.com/in/olitreadwell/)
 [![Site](https://img.shields.io/badge/Site-olitreadwell.github.io-lightgrey)](https://olitreadwell.github.io)
