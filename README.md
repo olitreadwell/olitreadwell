@@ -15,6 +15,19 @@ I build accessible web software and the teams that ship it. Currently leading fr
 - **Engineering practice (Numeral Studio):** Codified the studio's existing best practice for new client projects into a shared monorepo template (Next.js 15, React 19, TypeScript, Tailwind, Vitest, Playwright, Storybook, Turborepo). Captured patterns the team had already proven across many client engagements and made them the default starting point. Cuts project initiation time by around 30%, saving days per kickoff for both the team and the client.
 - **Independent work (Habitual Genesis, 2016–present):** Recently shipped [`price-to-impact`](https://github.com/olitreadwell/price-to-impact), a Chrome extension that nudges you to donate to high-impact charities while you shop online. Two interventions: divert a planned purchase to a charity equivalent, or round up the cart and donate the difference (TypeScript, MV3, GiveWell-derived data, MIT licensed). Also contributing back to [`ro-savage/nz-tech-events`](https://github.com/ro-savage/nz-tech-events), a community Rails app popular with the local tech community: CI quality gates, structured-data SEO, shared model concerns, test coverage for the password-reset and digest-job flows.
 
+## Open source
+
+I contribute to open source projects most weeks. Recent projects I've contributed to:
+
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum)
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
+- [plausible/analytics](https://github.com/plausible/analytics)
+- [simolus3/drift](https://github.com/simolus3/drift)
+- [GOVTNZ/cwac](https://github.com/GOVTNZ/cwac)
+- [opendatateam/udata-front-kit](https://github.com/opendatateam/udata-front-kit)
+- [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+- [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing)
+
 ## Career highlights
 
 - **Multi-brand paywall (2017–2019).** Built the brand-agnostic paywall and rule engine used across 26 media brands at a major publisher. Subscriptions doubled year over year at two flagship titles. End-to-end testing approach written up on the company tech blog: [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls).
