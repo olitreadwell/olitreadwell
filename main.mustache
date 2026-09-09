@@ -23,9 +23,9 @@ I build accessible web software and the teams that ship it. Currently leading fr
 
 ## Stack
 
-**Daily:** React, TypeScript, Next.js, Node.js, Electron, Playwright, Radix UI, Storybook, Vitest, GitHub Actions.
+**Daily:** React, TypeScript, Next.js, Node.js, Playwright, Radix UI, Storybook, Vitest, GitHub Actions.
 
-**Comfortable:** Ruby on Rails, PostgreSQL, Python, Tailwind, shadcn/ui, Turborepo, Bun, MV3 Chrome extensions.
+**Comfortable:** Ruby on Rails, PostgreSQL, Python, Tailwind, shadcn/ui, Turborepo, Bun, MV3 Chrome extensions, Electron.
 
 **Practising:** Accessibility (WCAG 2.1/2.2, ARIA, screen-reader testing in CI), inclusive design, design-system thinking.
 
