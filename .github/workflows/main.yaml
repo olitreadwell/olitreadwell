@@ -1,37 +1,25 @@
-name: README build
+name: README check
 
 on:
   push:
     branches:
       - main
-  schedule:
-    - cron: '0 */4 * * *'
+  pull_request:
   workflow_dispatch:
 
 jobs:
-  build:
+  check:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to main branch
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          ref: main
-      - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v1
-        with:
-          node-version: '13.x'
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          node-version: '20'
+          cache: npm
       - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
+        run: npm ci
+      - name: Verify README is in sync
+        run: npm test

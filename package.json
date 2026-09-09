@@ -1,22 +1,23 @@
 {
   "name": "olitreadwell",
   "version": "1.0.0",
-  "description": "",
+  "description": "GitHub profile README generator",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "node index.js",
+    "test": "node index.js && git diff --exit-code -- README.md"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/olitreadwell/olitreadwell.git"
   },
-  "author": "",
+  "author": "Oli Treadwell",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/olitreadwell/olitreadwell/issues"
   },
   "homepage": "https://github.com/olitreadwell/olitreadwell#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "mustache": "4.2.0"
   }
 }

@@ -1,10 +1,13 @@
 # Oli Treadwell
 
-Senior software engineer and accessibility advocate. Ten plus years building for the web, mostly in React, TypeScript, and Ruby on Rails.
+Senior software engineer and accessibility advocate. 10+ years building for the web, mostly in React, TypeScript, and Ruby on Rails.
 
-[LinkedIn](https://www.linkedin.com/in/olitreadwell/) · [Personal site](https://olitreadwell.github.io) · [Resume](https://github.com/olitreadwell/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-olitreadwell-blue?logo=linkedin)](https://www.linkedin.com/in/olitreadwell/)
+[![Site](https://img.shields.io/badge/Site-olitreadwell.github.io-lightgrey)](https://olitreadwell.github.io)
+[![Resume](https://img.shields.io/badge/Resume-github.com/olitreadwell/resume-green)](https://github.com/olitreadwell/resume)
+[![Email](https://img.shields.io/badge/Email-oliver.treadwell@gmail.com-red?logo=gmail)](mailto:oliver.treadwell@gmail.com)
 
----
+I build accessible web software and the teams that ship it. Currently leading front-end work at a creative agency, contributing to open source and community projects in my own time.
 
 ## What I work on
 
@@ -28,7 +31,7 @@ Senior software engineer and accessibility advocate. Ten plus years building for
 
 ## Talks and writing
 
-- [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls) — company tech blog, 2018
+- [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls), company tech blog, 2018
 - Past speaking: Refresh Austin, Silicon Beach Melbourne, Austin on Rails ethics panel, General Assembly Congress Austin
 
 ## Find me
