@@ -28,6 +28,15 @@ I contribute to open source projects most weeks. Recent projects I've contribute
 - [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
 - [TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing)
 
+## Community
+
+Event volunteer since 2012. I have set out chairs, scanned tickets at registration, emptied bins, written marketing emails, secured sponsorships, MCed, updated websites, and taken photos.
+
+- Co-organiser, Techstars Startup Weekend, 2012 to 2014 (San Diego, Orange County, Melbourne, Sydney, Wellington)
+- Organiser, speaker, and MC, Silicon Beach Melbourne and Refresh Austin
+- Volunteer, KiwiSaaS Wellington chapter, 2026
+- Open San Diego (Code for America brigade), San Diego Tech 4 Good, a11ySD
+
 ## Career highlights
 
 - **Multi-brand paywall (2017–2019).** Built the brand-agnostic paywall and rule engine used across 26 media brands at a major publisher. Subscriptions doubled year over year at two flagship titles. End-to-end testing approach written up on the company tech blog: [End-to-End Testing the Condé Nast Paywalls](https://web.archive.org/web/20211202210445/https://technology.condenast.com/story/end-to-end-testing-conde-nast-paywalls).
